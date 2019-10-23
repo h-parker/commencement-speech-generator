@@ -1,5 +1,8 @@
 .DS_Store
 
+# Ignore large files
+markov_model_final.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

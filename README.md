@@ -1,7 +1,7 @@
 # Con-grad-ulations! 
 Commencement Speeches: Generation, Classification, and Evaluation
 
-### [Click here to try it out!](http://52.72.123.214:8501/)
+### [Click here to try it out!](http://52.72.123.214:8501/) *currently down, working on a fix!*
 > Note: Some errors still need to be worked out! For some, just refreshing the page should do the trick :)
 
 Picture it -- May 15, 2020, you're a week away from Famous University's commencement and you just have _no idea_ what you're going to say. I mean, you want to give a classic speech, but you don't want to sound just like everyone else! Cue this project -- with this commencement speech generator, you'll be delivering brand new insight to the masses, such as "No one remembers people like Quentin Tarintino" or "The important point here is that you dont even think you deserve a historic commencement address. The greatest successes come from having the freedom to continue to cultivate in yourselves as citizens. The crumbs Im talking about are the choice we make that make us have to worry about Grizzlies breaking into the kitchen." Then, run through the classifier and you'll get an instant idea of what kind of person you'll sound like; that last quote apparently sounds like an author. Finally, just to get an idea of how grammatically correct you are, you'll run that paragraph through the evaluator, only to find that your grammar could be better. But, with that, you're armed with bold, new, authorly, semi-grammatically correct advice to give to hung-over, sleepy, fresh college grads who most likely won't even remember who you were in 5 years anyway!
